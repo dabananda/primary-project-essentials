@@ -1,0 +1,12 @@
+// Bootstrap
+npm install bootstrap
+or,
+yarn add bootstrap
+
+// Bootstrap import
+import 'bootstrap/dist/css/bootstrap.css';
+
+// SASS
+npm install sass
+or,
+yarn add sass
