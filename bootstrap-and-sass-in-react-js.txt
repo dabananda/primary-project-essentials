@@ -6,6 +6,14 @@ yarn add bootstrap
 // Bootstrap import
 import 'bootstrap/dist/css/bootstrap.css';
 
+// Bootstrap icon
+npm i bootstrap-icons
+or,
+yarn add bootstrap-icons
+
+// Bootstrap icon import
+import "bootstrap-icons/font/bootstrap-icons.css";
+
 // SASS
 npm install sass
 or,
