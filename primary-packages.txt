@@ -1,0 +1,1 @@
+npm i bootstrap@latest bootstrap-icons sass react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material

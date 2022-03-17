@@ -1,0 +1,4 @@
+Application name:	music-box
+API key:	5b2e2710ba4e5408ac17701bb9809663
+Shared secret:	b538c8397216b6d40d24a5a3c409eb73
+Registered to:	whoisnewman
