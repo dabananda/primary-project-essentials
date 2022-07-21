@@ -1,0 +1,4 @@
+Use the below script in <head> of your index.html file
+
+// Fontawesome script for icons
+<script src="https://kit.fontawesome.com/1985ed0085.js" crossorigin="anonymous"></script>
