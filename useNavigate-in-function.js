@@ -10,5 +10,5 @@ class MyBackButton extends React.Component {
 export default function(props) {
   const navigate = useNavigate();
 
-  return <MyBackButton {...props} navigate navigate />;
+  return <MyBackButton {...props} navigate />;
 }
