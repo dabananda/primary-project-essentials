@@ -9,8 +9,6 @@
 `import 'bootstrap/dist/js/bootstrap.min.js'`
 ### Import bootstrap icons
 `import "bootstrap-icons/font/bootstrap-icons.css";`
-### Favicon link
-`https://res.cloudinary.com/divcukylp/image/upload/v1647423842/images/favicon-dabananda-mitra_byl6xn.png`
 ### Favicon html tag
 `<link rel="icon" type="image/svg+xml" href="https://res.cloudinary.com/divcukylp/image/upload/v1647423842/images/favicon-dabananda-mitra_byl6xn.png" />`
 ### Fontawesome icons (Insert the script inside the <head> of index.html)
