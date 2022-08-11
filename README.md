@@ -1,4 +1,4 @@
-# Some initial packages installation process
+# Some initial packages installation process for ReactJs
 ### Create a reactjs project with vite
 `npm create vite@latest`
 ### Primary packages after creating a reactjs project
