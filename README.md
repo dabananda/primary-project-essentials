@@ -13,5 +13,5 @@
 `https://res.cloudinary.com/divcukylp/image/upload/v1647423842/images/favicon-dabananda-mitra_byl6xn.png`
 ### Favicon html tag
 `<link rel="icon" type="image/svg+xml" href="https://res.cloudinary.com/divcukylp/image/upload/v1647423842/images/favicon-dabananda-mitra_byl6xn.png" />`
-### Fontawesome icons
+### Fontawesome icons #####(Insert the script inside the <head> of index.html)
 `<script src="https://kit.fontawesome.com/1985ed0085.js" crossorigin="anonymous"></script>`
