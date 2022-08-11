@@ -1,1 +1,0 @@
-npm i bootstrap@latest bootstrap-icons sass react-router-dom redux react-redux redux-thunk redux-middleware
