@@ -2,7 +2,7 @@
 ### Create a reactjs project with vite
 `npm create vite@latest`
 ### Primary packages after creating a reactjs project
-`npm i bootstrap@latest bootstrap-icons sass react-router-dom redux react-redux redux-thunk redux-middleware axios @reduxjs/toolkit`
+`npm i bootstrap@latest bootstrap-icons sass react-router-dom redux react-redux redux-thunk redux-middleware axios @reduxjs/toolkit firebase`
 ### Import bootstrap
 ```
 import 'bootstrap/dist/css/bootstrap.css';
